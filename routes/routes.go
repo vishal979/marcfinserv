@@ -117,7 +117,7 @@ func sendEmail(body string) {
 	// Sending email.
 	err := smtp.SendMail(smtpServer.Address(), auth, from, to, message)
 	if err != nil {
-		log.Println(err)
+		log.Println("err", err)
 		return
 	}
 	log.Println("Email Sent!")
