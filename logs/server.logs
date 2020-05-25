@@ -1,1 +1,489 @@
 
+2020/05/24 22:54:09 logs file successfully opened
+2020/05/24 22:54:09 Server running on port 8080
+2020/05/24 22:54:44 logs file successfully opened
+2020/05/24 22:54:44 Server running on port 8080
+2020/05/24 23:04:33 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590338994.3.1.1590339008.0] Purpose:[prefetch] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:51597 / <nil> <nil> <nil> 0xc00018c690}
+2020/05/24 23:04:33 Index page get request
+2020/05/24 23:04:41 logs file successfully opened
+2020/05/24 23:04:41 Server running on port 8080
+2020/05/24 23:04:41 Error in setting up server with the error listen tcp 0.0.0.0:8080: bind: address already in use
+2020/05/24 23:04:46 logs file successfully opened
+2020/05/24 23:04:46 Server running on port 8080
+2020/05/24 23:04:46 Error in setting up server with the error listen tcp 0.0.0.0:8080: bind: address already in use
+2020/05/24 23:04:57 logs file successfully opened
+2020/05/24 23:04:57 Server running on port 8080
+2020/05/24 23:05:01 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.0.1590341675.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:51666 / <nil> <nil> <nil> 0xc00027c600}
+2020/05/24 23:05:01 Index page get request
+2020/05/24 23:05:17 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341702.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:51666 / <nil> <nil> <nil> 0xc0000721b0}
+2020/05/24 23:05:17 Index page get request
+2020/05/24 23:07:43 logs file successfully opened
+2020/05/24 23:07:43 Server running on port 8080
+2020/05/24 23:07:49 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341738.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52058 / <nil> <nil> <nil> 0xc0001c1710}
+2020/05/24 23:07:49 Index page get request
+2020/05/24 23:07:51 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341870.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52058 / <nil> <nil> <nil> 0xc000274720}
+2020/05/24 23:07:51 Index page get request
+2020/05/24 23:07:57 logs file successfully opened
+2020/05/24 23:07:57 Server running on port 8080
+2020/05/24 23:08:00 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341872.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52085 / <nil> <nil> <nil> 0xc0000a6120}
+2020/05/24 23:08:00 Index page get request
+2020/05/24 23:08:01 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341880.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52085 / <nil> <nil> <nil> 0xc0001b76b0}
+2020/05/24 23:08:01 Index page get request
+2020/05/24 23:08:02 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341882.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52085 / <nil> <nil> <nil> 0xc0002681e0}
+2020/05/24 23:08:02 Index page get request
+2020/05/24 23:08:03 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341883.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52085 / <nil> <nil> <nil> 0xc000384fc0}
+2020/05/24 23:08:03 Index page get request
+2020/05/24 23:09:45 logs file successfully opened
+2020/05/24 23:09:45 Server running on port 8080
+2020/05/24 23:09:47 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341889.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52315 / <nil> <nil> <nil> 0xc000108120}
+2020/05/24 23:09:47 Index page get request
+2020/05/24 23:10:42 logs file successfully opened
+2020/05/24 23:10:42 Server running on port 8080
+2020/05/24 23:10:43 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590341987.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52435 / <nil> <nil> <nil> 0xc000092210}
+2020/05/24 23:10:43 Index page get request
+2020/05/24 23:10:45 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342043.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52435 / <nil> <nil> <nil> 0xc000092660}
+2020/05/24 23:10:45 Index page get request
+2020/05/24 23:10:46 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342045.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52435 / <nil> <nil> <nil> 0xc0000928a0}
+2020/05/24 23:10:46 Index page get request
+2020/05/24 23:10:50 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52451 / <nil> <nil> <nil> 0xc00011a690}
+2020/05/24 23:10:50 Index page get request
+2020/05/24 23:11:54 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342075.0] Purpose:[prefetch] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52604 / <nil> <nil> <nil> 0xc0004723f0}
+2020/05/24 23:11:54 Index page get request
+2020/05/24 23:11:56 &{GET /products HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342075.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:52604 /products <nil> <nil> <nil> 0xc00011b620}
+2020/05/24 23:11:56 products page get request
+2020/05/24 23:22:53 logs file successfully opened
+2020/05/24 23:22:53 Server running on port 8080
+2020/05/24 23:23:08 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342075.0] Purpose:[prefetch] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54131 / <nil> <nil> <nil> 0xc000094120}
+2020/05/24 23:23:08 Index page get request
+2020/05/24 23:23:20 submit request received
+2020/05/24 23:23:20 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[91] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342791.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00013c900 <nil> 91 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54132 /submit <nil> <nil> <nil> 0xc0001cc8d0}
+2020/05/24 23:23:20 key  name
+2020/05/24 23:23:20 value skjdf
+2020/05/24 23:23:20 key  email
+2020/05/24 23:23:20 value jnfs@gmail.com
+2020/05/24 23:23:20 key  phone
+2020/05/24 23:23:20 value oindflgn
+2020/05/24 23:23:20 key  alternatephone
+2020/05/24 23:23:20 value nl
+2020/05/24 23:23:20 key  location
+2020/05/24 23:23:20 value ln
+2020/05/24 23:23:20 key  loantype
+2020/05/24 23:23:20 value lap
+2020/05/24 23:23:20 sending email
+2020/05/24 23:23:25 Email Sent!
+2020/05/24 23:23:56 logs file successfully opened
+2020/05/24 23:23:56 Server running on port 8080
+2020/05/24 23:23:57 submit request received
+2020/05/24 23:23:57 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[91] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342828.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00013c500 <nil> 91 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54239 /submit <nil> <nil> <nil> 0xc00011de30}
+2020/05/24 23:23:57 key  alternatephone
+2020/05/24 23:23:57 value nl
+2020/05/24 23:23:57 key  location
+2020/05/24 23:23:57 value ln
+2020/05/24 23:23:57 key  loantype
+2020/05/24 23:23:57 value lap
+2020/05/24 23:23:57 key  name
+2020/05/24 23:23:57 value skjdf
+2020/05/24 23:23:57 key  email
+2020/05/24 23:23:57 value jnfs@gmail.com
+2020/05/24 23:23:57 key  phone
+2020/05/24 23:23:57 value oindflgn
+2020/05/24 23:23:57 sending email
+2020/05/24 23:24:02 Email Sent!
+2020/05/24 23:24:02 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:104)
+2020/05/24 23:24:30 logs file successfully opened
+2020/05/24 23:24:30 Server running on port 8080
+2020/05/24 23:24:34 submit request received
+2020/05/24 23:24:34 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[91] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342842.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000296000 <nil> 91 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54320 /submit <nil> <nil> <nil> 0xc000286120}
+2020/05/24 23:24:34 key  email
+2020/05/24 23:24:34 value jnfs@gmail.com
+2020/05/24 23:24:34 key  phone
+2020/05/24 23:24:34 value oindflgn
+2020/05/24 23:24:34 key  alternatephone
+2020/05/24 23:24:34 value nl
+2020/05/24 23:24:34 key  location
+2020/05/24 23:24:34 value ln
+2020/05/24 23:24:34 key  loantype
+2020/05/24 23:24:34 value lap
+2020/05/24 23:24:34 key  name
+2020/05/24 23:24:34 value skjdf
+2020/05/24 23:24:34 sending email
+2020/05/24 23:24:38 Email Sent!
+2020/05/24 23:24:38 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:104)
+2020/05/24 23:24:58 logs file successfully opened
+2020/05/24 23:24:58 Server running on port 8080
+2020/05/24 23:24:58 submit request received
+2020/05/24 23:24:58 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[91] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342842.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000296000 <nil> 91 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54375 /submit <nil> <nil> <nil> 0xc000286120}
+2020/05/24 23:24:58 key  email
+2020/05/24 23:24:58 value jnfs@gmail.com
+2020/05/24 23:24:58 key  phone
+2020/05/24 23:24:58 value oindflgn
+2020/05/24 23:24:58 key  alternatephone
+2020/05/24 23:24:58 value nl
+2020/05/24 23:24:58 key  location
+2020/05/24 23:24:58 value ln
+2020/05/24 23:24:58 key  loantype
+2020/05/24 23:24:58 value lap
+2020/05/24 23:24:58 key  name
+2020/05/24 23:24:58 value skjdf
+2020/05/24 23:24:58 sending email
+2020/05/24 23:25:03 Email Sent!
+2020/05/24 23:25:03 redirecting
+2020/05/24 23:25:03 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:105)
+2020/05/24 23:29:23 logs file successfully opened
+2020/05/24 23:29:23 Server running on port 8080
+2020/05/24 23:29:25 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590342842.0] Purpose:[prefetch] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54938 / <nil> <nil> <nil> 0xc0001fc690}
+2020/05/24 23:29:25 Index page get request
+2020/05/24 23:29:34 submit request received
+2020/05/24 23:29:34 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[97] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343166.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00006a0c0 <nil> 97 [] false localhost:8080 map[] map[] <nil> map[] [::1]:54938 /submit <nil> <nil> <nil> 0xc000282270}
+2020/05/24 23:29:34 key  loantype
+2020/05/24 23:29:34 value lap
+2020/05/24 23:29:34 key  name
+2020/05/24 23:29:34 value sdlif
+2020/05/24 23:29:34 key  email
+2020/05/24 23:29:34 value iusdhf2@gmail.com
+2020/05/24 23:29:34 key  phone
+2020/05/24 23:29:34 value kjbsdf
+2020/05/24 23:29:34 key  alternatephone
+2020/05/24 23:29:34 value oinf
+2020/05/24 23:29:34 key  location
+2020/05/24 23:29:34 value osjnf
+2020/05/24 23:29:34 sending email
+2020/05/24 23:29:39 Email Sent!
+2020/05/24 23:29:39 redirecting
+2020/05/24 23:29:39 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:30:26 logs file successfully opened
+2020/05/24 23:30:26 Server running on port 8080
+2020/05/24 23:30:28 submit request received
+2020/05/24 23:30:28 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[97] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343179.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0002940c0 <nil> 97 [] false localhost:8080 map[] map[] <nil> map[] [::1]:55074 /submit <nil> <nil> <nil> 0xc000284210}
+2020/05/24 23:30:28 key  email
+2020/05/24 23:30:28 value iusdhf2@gmail.com
+2020/05/24 23:30:28 key  phone
+2020/05/24 23:30:28 value kjbsdf
+2020/05/24 23:30:28 key  alternatephone
+2020/05/24 23:30:28 value oinf
+2020/05/24 23:30:28 key  location
+2020/05/24 23:30:28 value osjnf
+2020/05/24 23:30:28 key  loantype
+2020/05/24 23:30:28 value lap
+2020/05/24 23:30:28 key  name
+2020/05/24 23:30:28 value sdlif
+2020/05/24 23:30:28 sending email
+2020/05/24 23:30:33 Email Sent!
+2020/05/24 23:30:33 redirecting
+2020/05/24 23:30:33 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:30:37 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343179.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:55074 / <nil> <nil> <nil> 0xc00052e120}
+2020/05/24 23:30:37 Index page get request
+2020/05/24 23:30:44 submit request received
+2020/05/24 23:30:44 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[90] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343238.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0002942c0 <nil> 90 [] false localhost:8080 map[] map[] <nil> map[] [::1]:55074 /submit <nil> <nil> <nil> 0xc0002845d0}
+2020/05/24 23:30:44 key  email
+2020/05/24 23:30:44 value ldsn@gmail.com
+2020/05/24 23:30:44 key  phone
+2020/05/24 23:30:44 value oifng
+2020/05/24 23:30:44 key  alternatephone
+2020/05/24 23:30:44 value lfn
+2020/05/24 23:30:44 key  location
+2020/05/24 23:30:44 value lkn
+2020/05/24 23:30:44 key  loantype
+2020/05/24 23:30:44 value lap
+2020/05/24 23:30:44 key  name
+2020/05/24 23:30:44 value sdfkn
+2020/05/24 23:30:44 sending email
+2020/05/24 23:30:48 Email Sent!
+2020/05/24 23:30:48 redirecting
+2020/05/24 23:30:48 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:33:06 &{GET /index HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343336.0] Referer:[http://localhost:8080/products] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:55404 /index <nil> <nil> <nil> 0xc000204330}
+2020/05/24 23:33:06 Index page get request
+2020/05/24 23:36:41 logs file successfully opened
+2020/05/24 23:36:41 Server running on port 8080
+2020/05/24 23:36:54 submit request received
+2020/05/24 23:36:54 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[96] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343605.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00011a900 <nil> 96 [] false localhost:8080 map[] map[] <nil> map[] [::1]:55880 /submit <nil> <nil> <nil> 0xc0001ceba0}
+2020/05/24 23:36:54 key  phone
+2020/05/24 23:36:54 value lkjsdn
+2020/05/24 23:36:54 key  alternatephone
+2020/05/24 23:36:54 value kjsdfb
+2020/05/24 23:36:54 key  location
+2020/05/24 23:36:54 value jjk
+2020/05/24 23:36:54 key  loantype
+2020/05/24 23:36:54 value lap
+2020/05/24 23:36:54 key  name
+2020/05/24 23:36:54 value sdkj
+2020/05/24 23:36:54 key  email
+2020/05/24 23:36:54 value kjsdnjf@gmail.com
+2020/05/24 23:36:54 sending email
+2020/05/24 23:36:59 Email Sent!
+2020/05/24 23:36:59 redirecting
+2020/05/24 23:36:59 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:40:38 logs file successfully opened
+2020/05/24 23:40:38 Server running on port 8080
+2020/05/24 23:40:51 submit request received
+2020/05/24 23:40:51 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[98] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343841.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0000bc940 <nil> 98 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56377 /submit <nil> <nil> <nil> 0xc000184ea0}
+2020/05/24 23:40:51 key  alternatephone
+2020/05/24 23:40:51 value oineflkn
+2020/05/24 23:40:51 key  location
+2020/05/24 23:40:51 value ilnlfnl
+2020/05/24 23:40:51 key  loantype
+2020/05/24 23:40:51 value lap
+2020/05/24 23:40:51 key  name
+2020/05/24 23:40:51 value sdfkj
+2020/05/24 23:40:51 key  email
+2020/05/24 23:40:51 value jkwenf@gmailvlk
+2020/05/24 23:40:51 key  phone
+2020/05/24 23:40:51 value dnf
+2020/05/24 23:40:51 sending email
+2020/05/24 23:40:55 Email Sent!
+2020/05/24 23:40:55 redirecting
+2020/05/24 23:40:55 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:41:16 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56455 / <nil> <nil> <nil> 0xc000184720}
+2020/05/24 23:41:16 Index page get request
+2020/05/24 23:41:27 submit request received
+2020/05/24 23:41:27 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[88] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.429762381.1590343878; _ga_ZVM6M3Q9HK=GS1.1.1590343878.1.0.1590343878.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000412180 <nil> 88 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56455 /submit <nil> <nil> <nil> 0xc00009d530}
+2020/05/24 23:41:27 key  name
+2020/05/24 23:41:27 value skdnn
+2020/05/24 23:41:27 key  email
+2020/05/24 23:41:27 value kj@gm
+2020/05/24 23:41:27 key  phone
+2020/05/24 23:41:27 value kjdsfn
+2020/05/24 23:41:27 key  alternatephone
+2020/05/24 23:41:27 value onwlkn
+2020/05/24 23:41:27 key  location
+2020/05/24 23:41:27 value nklwnl
+2020/05/24 23:41:27 key  loantype
+2020/05/24 23:41:27 value lap
+2020/05/24 23:41:27 sending email
+2020/05/24 23:41:31 Email Sent!
+2020/05/24 23:41:31 redirecting
+2020/05/24 23:41:31 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:42:15 logs file successfully opened
+2020/05/24 23:42:15 Server running on port 8080
+2020/05/24 23:42:23 submit request received
+2020/05/24 23:42:23 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[94] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343937.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00006a880 <nil> 94 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56596 /submit <nil> <nil> <nil> 0xc00023e750}
+2020/05/24 23:42:23 key  alternatephone
+2020/05/24 23:42:23 value ljnkn
+2020/05/24 23:42:23 key  location
+2020/05/24 23:42:23 value lnlk
+2020/05/24 23:42:23 key  loantype
+2020/05/24 23:42:23 value lap
+2020/05/24 23:42:23 key  name
+2020/05/24 23:42:23 value sdkjf
+2020/05/24 23:42:23 key  email
+2020/05/24 23:42:23 value lkjnlknkl@jkgn
+2020/05/24 23:42:23 key  phone
+2020/05/24 23:42:23 value kjdnfk
+2020/05/24 23:42:23 sending email
+2020/05/24 23:42:27 Email Sent!
+2020/05/24 23:42:27 redirecting
+2020/05/24 23:42:27 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:106)
+2020/05/24 23:42:57 logs file successfully opened
+2020/05/24 23:42:57 Server running on port 8080
+2020/05/24 23:43:02 submit request received
+2020/05/24 23:43:02 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[94] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343980.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000072100 <nil> 94 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56689 /submit <nil> <nil> <nil> 0xc0000761b0}
+2020/05/24 23:43:02 key  email
+2020/05/24 23:43:02 value lkjnlknkl@jkgn
+2020/05/24 23:43:02 key  phone
+2020/05/24 23:43:02 value kjdnfk
+2020/05/24 23:43:02 key  alternatephone
+2020/05/24 23:43:02 value ljnkn
+2020/05/24 23:43:02 key  location
+2020/05/24 23:43:02 value lnlk
+2020/05/24 23:43:02 key  loantype
+2020/05/24 23:43:02 value lap
+2020/05/24 23:43:02 key  name
+2020/05/24 23:43:02 value sdkjf
+2020/05/24 23:43:02 sending email
+2020/05/24 23:43:07 Email Sent!
+2020/05/24 23:43:07 redirecting
+2020/05/24 23:43:07 &{0xc0001fe1e0 0xc00007a000 0xc000072100 0x1145e50 true false false false 0xc0000721c0 {0xc00028a000 map[] false false} map[] false 302 -1 307 false false [] 0 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] [0 0 0 0 0 0 0 0 0 0] [0 0 0] 0xc000032150 0}
+2020/05/24 23:43:07 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:107)
+2020/05/24 23:44:12 logs file successfully opened
+2020/05/24 23:44:12 Server running on port 8080
+2020/05/24 23:44:13 submit request received
+2020/05/24 23:44:13 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[94] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343987.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0000a4000 <nil> 94 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56850 /submit <nil> <nil> <nil> 0xc000094120}
+2020/05/24 23:44:13 key  email
+2020/05/24 23:44:13 value lkjnlknkl@jkgn
+2020/05/24 23:44:13 key  phone
+2020/05/24 23:44:13 value kjdnfk
+2020/05/24 23:44:13 key  alternatephone
+2020/05/24 23:44:13 value ljnkn
+2020/05/24 23:44:13 key  location
+2020/05/24 23:44:13 value lnlk
+2020/05/24 23:44:13 key  loantype
+2020/05/24 23:44:13 value lap
+2020/05/24 23:44:13 key  name
+2020/05/24 23:44:13 value sdkjf
+2020/05/24 23:44:13 sending email
+2020/05/24 23:44:17 Email Sent!
+2020/05/24 23:44:17 redirecting
+2020/05/24 23:44:17 0x136a290
+2020/05/24 23:44:17 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:107)
+2020/05/24 23:44:53 logs file successfully opened
+2020/05/24 23:44:53 Server running on port 8080
+2020/05/24 23:44:55 submit request received
+2020/05/24 23:44:55 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[94] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590343987.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0000a60c0 <nil> 94 [] false localhost:8080 map[] map[] <nil> map[] [::1]:56939 /submit <nil> <nil> <nil> 0xc0000a41b0}
+2020/05/24 23:44:55 key  name
+2020/05/24 23:44:55 value sdkjf
+2020/05/24 23:44:55 key  email
+2020/05/24 23:44:55 value lkjnlknkl@jkgn
+2020/05/24 23:44:55 key  phone
+2020/05/24 23:44:55 value kjdnfk
+2020/05/24 23:44:55 key  alternatephone
+2020/05/24 23:44:55 value ljnkn
+2020/05/24 23:44:55 key  location
+2020/05/24 23:44:55 value lnlk
+2020/05/24 23:44:55 key  loantype
+2020/05/24 23:44:55 value lap
+2020/05/24 23:44:55 sending email
+2020/05/24 23:44:59 Email Sent!
+2020/05/24 23:44:59 redirecting
+2020/05/24 23:44:59 map[]
+2020/05/24 23:44:59 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:107)
+2020/05/24 23:46:29 logs file successfully opened
+2020/05/24 23:46:29 Server running on port 8080
+2020/05/24 23:46:38 submit request received
+2020/05/24 23:46:38 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[90] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590344192.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000134940 <nil> 90 [] false localhost:8080 map[] map[] <nil> map[] [::1]:57151 /submit <nil> <nil> <nil> 0xc0001fc990}
+2020/05/24 23:46:38 key  alternatephone
+2020/05/24 23:46:38 value kjbjkb
+2020/05/24 23:46:38 key  location
+2020/05/24 23:46:38 value bkjbjk
+2020/05/24 23:46:38 key  loantype
+2020/05/24 23:46:38 value lap
+2020/05/24 23:46:38 key  name
+2020/05/24 23:46:38 value sdj
+2020/05/24 23:46:38 key  email
+2020/05/24 23:46:38 value kjbdkjs@kj
+2020/05/24 23:46:38 key  phone
+2020/05/24 23:46:38 value kjbnj
+2020/05/24 23:46:38 sending email
+2020/05/24 23:46:43 Email Sent!
+2020/05/24 23:46:43 redirecting
+2020/05/24 23:46:43 map[]
+2020/05/24 23:46:43 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:107)
+2020/05/24 23:47:09 submit request received
+2020/05/24 23:47:09 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[90] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590344226.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000396080 <nil> 90 [] false localhost:8080 map[] map[] <nil> map[] [::1]:57151 /submit <nil> <nil> <nil> 0xc0001fc660}
+2020/05/24 23:47:09 key  alternatephone
+2020/05/24 23:47:09 value kjbjkb
+2020/05/24 23:47:09 key  location
+2020/05/24 23:47:09 value bkjbjk
+2020/05/24 23:47:09 key  loantype
+2020/05/24 23:47:09 value lap
+2020/05/24 23:47:09 key  name
+2020/05/24 23:47:09 value sdj
+2020/05/24 23:47:09 key  email
+2020/05/24 23:47:09 value kjbdkjs@kj
+2020/05/24 23:47:09 key  phone
+2020/05/24 23:47:09 value kjbnj
+2020/05/24 23:47:09 sending email
+2020/05/24 23:47:13 Email Sent!
+2020/05/24 23:47:13 redirecting
+2020/05/24 23:47:13 map[]
+2020/05/24 23:47:13 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:107)
+2020/05/24 23:47:54 logs file successfully opened
+2020/05/24 23:47:54 Server running on port 8080
+2020/05/24 23:48:07 submit request received
+2020/05/24 23:48:07 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[90] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590344233.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000296000 <nil> 90 [] false localhost:8080 map[] map[] <nil> map[] [::1]:57358 /submit <nil> <nil> <nil> 0xc000286120}
+2020/05/24 23:48:07 key  loantype
+2020/05/24 23:48:07 value lap
+2020/05/24 23:48:07 key  name
+2020/05/24 23:48:07 value sdj
+2020/05/24 23:48:07 key  email
+2020/05/24 23:48:07 value kjbdkjs@kj
+2020/05/24 23:48:07 key  phone
+2020/05/24 23:48:07 value kjbnj
+2020/05/24 23:48:07 key  alternatephone
+2020/05/24 23:48:07 value kjbjkb
+2020/05/24 23:48:07 key  location
+2020/05/24 23:48:07 value bkjbjk
+2020/05/24 23:48:07 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:90)
+2020/05/24 23:48:07 sending email
+2020/05/24 23:48:11 Email Sent!
+2020/05/24 23:48:11 redirecting
+2020/05/24 23:48:11 map[Location:[/]]
+2020/05/24 23:48:11 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:108)
+2020/05/24 23:48:53 logs file successfully opened
+2020/05/24 23:48:53 Server running on port 8080
+2020/05/24 23:49:06 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590344338.0] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:57467 / <nil> <nil> <nil> 0xc000076180}
+2020/05/24 23:49:06 Index page get request
+2020/05/24 23:49:06 http: superfluous response.WriteHeader call from marcfinserv/routes.indexHandler (routes.go:41)
+2020/05/25 00:09:43 logs file successfully opened
+2020/05/25 00:09:43 Server running on port 8080
+2020/05/25 00:09:48 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590344385.0] Purpose:[prefetch] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[none] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58591 / <nil> <nil> <nil> 0xc00020a1b0}
+2020/05/25 00:09:48 Index page get request
+2020/05/25 00:09:55 submit request received
+2020/05/25 00:09:55 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[98] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345589.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc0000732c0 <nil> 98 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58591 /submit <nil> <nil> <nil> 0xc00036bc50}
+2020/05/25 00:09:55 key  email
+2020/05/25 00:09:55 value kjbnwjfn@lkgnl
+2020/05/25 00:09:55 key  phone
+2020/05/25 00:09:55 value kjfnk,n
+2020/05/25 00:09:55 key  alternatephone
+2020/05/25 00:09:55 value linlk
+2020/05/25 00:09:55 key  location
+2020/05/25 00:09:55 value nlkn
+2020/05/25 00:09:55 key  loantype
+2020/05/25 00:09:55 value lap
+2020/05/25 00:09:55 key  name
+2020/05/25 00:09:55 value sdlkjf
+2020/05/25 00:09:55 sending email
+2020/05/25 00:10:00 Email Sent!
+2020/05/25 00:10:00 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:103)
+2020/05/25 00:11:14 logs file successfully opened
+2020/05/25 00:11:14 Server running on port 8080
+2020/05/25 00:11:16 submit request received
+2020/05/25 00:11:16 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[98] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345600.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00009a0c0 <nil> 98 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58778 /submit <nil> <nil> <nil> 0xc0000981b0}
+2020/05/25 00:11:16 key  loantype
+2020/05/25 00:11:16 value lap
+2020/05/25 00:11:16 key  name
+2020/05/25 00:11:16 value sdlkjf
+2020/05/25 00:11:16 key  email
+2020/05/25 00:11:16 value kjbnwjfn@lkgnl
+2020/05/25 00:11:16 key  phone
+2020/05/25 00:11:16 value kjfnk,n
+2020/05/25 00:11:16 key  alternatephone
+2020/05/25 00:11:16 value linlk
+2020/05/25 00:11:16 key  location
+2020/05/25 00:11:16 value nlkn
+2020/05/25 00:11:16 sending email
+2020/05/25 00:11:20 Email Sent!
+2020/05/25 00:11:20 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:105)
+2020/05/25 00:11:20 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345600.0] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58778 / <nil> <nil> <nil> 0xc000099020}
+2020/05/25 00:11:20 Index page get request
+2020/05/25 00:12:14 logs file successfully opened
+2020/05/25 00:12:14 Server running on port 8080
+2020/05/25 00:12:15 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345680.0] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58905 / <nil> <nil> <nil> 0xc00009a1b0}
+2020/05/25 00:12:15 Index page get request
+2020/05/25 00:12:21 submit request received
+2020/05/25 00:12:21 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[87] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345735.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc000398000 <nil> 87 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58905 /submit <nil> <nil> <nil> 0xc000380120}
+2020/05/25 00:12:21 key  alternatephone
+2020/05/25 00:12:21 value lknlk
+2020/05/25 00:12:21 key  location
+2020/05/25 00:12:21 value nlkn
+2020/05/25 00:12:21 key  loantype
+2020/05/25 00:12:21 value lap
+2020/05/25 00:12:21 key  name
+2020/05/25 00:12:21 value sdkjl
+2020/05/25 00:12:21 key  email
+2020/05/25 00:12:21 value kjn@kjln
+2020/05/25 00:12:21 key  phone
+2020/05/25 00:12:21 value lksnd
+2020/05/25 00:12:21 sending email
+2020/05/25 00:12:25 Email Sent!
+2020/05/25 00:12:25 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:104)
+2020/05/25 00:12:25 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345735.0] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58905 / <nil> <nil> <nil> 0xc000352900}
+2020/05/25 00:12:25 Index page get request
+2020/05/25 00:12:52 submit request received
+2020/05/25 00:12:52 &{POST /submit HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Content-Length:[83] Content-Type:[application/x-www-form-urlencoded] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345746.0] Origin:[http://localhost:8080] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] 0xc00009c100 <nil> 83 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58905 /submit <nil> <nil> <nil> 0xc0004cc1b0}
+2020/05/25 00:12:52 key  name
+2020/05/25 00:12:52 value final
+2020/05/25 00:12:52 key  email
+2020/05/25 00:12:52 value final@njk
+2020/05/25 00:12:52 key  phone
+2020/05/25 00:12:52 value oin
+2020/05/25 00:12:52 key  alternatephone
+2020/05/25 00:12:52 value lkn
+2020/05/25 00:12:52 key  location
+2020/05/25 00:12:52 value iln
+2020/05/25 00:12:52 key  loantype
+2020/05/25 00:12:52 value lap
+2020/05/25 00:12:52 sending email
+2020/05/25 00:12:56 Email Sent!
+2020/05/25 00:12:56 http: superfluous response.WriteHeader call from marcfinserv/routes.submitHandler (routes.go:104)
+2020/05/25 00:12:56 &{GET / HTTP/1.1 1 1 map[Accept:[text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9] Accept-Encoding:[gzip, deflate, br] Accept-Language:[en-US,en;q=0.9] Cache-Control:[max-age=0] Connection:[keep-alive] Cookie:[_ga=GA1.1.159936478.1590126224; _ga_1FW2BBD1GZ=GS1.1.1590126223.1.0.1590126227.0; _ga_ZVM6M3Q9HK=GS1.1.1590341675.4.1.1590345746.0] Referer:[http://localhost:8080/] Sec-Fetch-Dest:[document] Sec-Fetch-Mode:[navigate] Sec-Fetch-Site:[same-origin] Sec-Fetch-User:[?1] Upgrade-Insecure-Requests:[1] User-Agent:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36]] {} <nil> 0 [] false localhost:8080 map[] map[] <nil> map[] [::1]:58905 / <nil> <nil> <nil> 0xc0004cc570}
+2020/05/25 00:12:56 Index page get request

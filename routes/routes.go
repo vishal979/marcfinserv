@@ -1,6 +1,7 @@
 package routes
 
 import (
+	"fmt"
 	"log"
 	"marcfinserv/utils"
 	"net/http"
@@ -30,10 +31,11 @@ func Handle(r *mux.Router) {
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "text/html")
-	w.WriteHeader(http.StatusOK)
 	log.Println(r)
 	log.Println("Index page get request")
 	p := "vishal"
+	// ctx, _ := v8go.NewContext(nil)
+	// ctx.RunScript("alert", "js connected")
 	utils.ExecuteTemplate(w, "index.html", p)
 }
 
@@ -77,13 +79,29 @@ func submitHandler(w http.ResponseWriter, r *http.Request) {
 	log.Println("submit request received")
 	log.Println(r)
 	r.ParseForm()
+	http.Redirect(w, r, "/", 303)
 	body := "Hi you received an enquiry from "
 	for k, v := range r.Form {
 		log.Println("key ", k)
 		log.Println("value", strings.Join(v, ""))
 		body = body + " " + k + " " + strings.Join(v, "")
 	}
-	sendEmail(body)
+	err := sendEmail(body)
+	if err == nil {
+		hello := "enquiry submitted successfully"
+		fmt.Fprintf(w, `<html>
+            <head>
+            </head>
+            <body>
+            <h1>Go Timer (ticks every second!)</h1>
+            <div id="output"></div>
+            <script type="text/javascript">
+            alert("`+hello+`");
+            </script>
+            </body>
+			</html>`)
+	}
+	http.Redirect(w, r, "/", 303)
 }
 
 func sendHandler(w http.ResponseWriter, r *http.Request) {
@@ -100,7 +118,7 @@ func (s *smtpServer) Address() string {
 	return s.host + ":" + s.port
 }
 
-func sendEmail(body string) {
+func sendEmail(body string) error {
 	log.Println("sending email")
 	from := "marcfinserv@gmail.com"
 	password := "9314102495"
@@ -118,7 +136,9 @@ func sendEmail(body string) {
 	err := smtp.SendMail(smtpServer.Address(), auth, from, to, message)
 	if err != nil {
 		log.Println("err", err)
-		return
+		return err
 	}
+
 	log.Println("Email Sent!")
+	return nil
 }
